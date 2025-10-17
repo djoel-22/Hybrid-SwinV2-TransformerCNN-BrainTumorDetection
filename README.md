@@ -156,7 +156,7 @@ Alternatively, if you have the **EXE version**, simply double-click the applicat
 ---
 
 ## 🧠 Model Architecture Overview
-
+```
 Input Image (192x192 RGB)
 │
 ▼
@@ -170,7 +170,7 @@ Concatenation Layer → Combine Global + Local
 │
 ▼
 Fully Connected Layers → Classification (4 Tumor Types)
-
+```
 
 ---
 
