@@ -175,7 +175,7 @@ Fully Connected Layers → Classification (4 Tumor Types)
 ---
 
 ## ⚙️ Technologies Used
-```
+
 | Category | Tools |
 |:--|:--|
 | **Programming Language** | Python 3.10+ |
@@ -185,8 +185,7 @@ Fully Connected Layers → Classification (4 Tumor Types)
 | **Image Processing** | OpenCV, PIL |
 | **Training Utility** | tqdm |
 | **Deployment (optional)** | PyInstaller / cx_Freeze |
-```
----
+
 
 ## 📈 Results Summary
 
