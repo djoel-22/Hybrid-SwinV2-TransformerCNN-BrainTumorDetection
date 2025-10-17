@@ -1,4 +1,5 @@
-# 🧠 NeuroVision-HybridSwinCNN  
+# 🧠 Hybrid-SwinV2-TransformerCNN-BrainTumorDetection
+  
 ### Hybrid Swin Transformer + CNN for Brain Tumor MRI Classification
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
