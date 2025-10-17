@@ -11,7 +11,8 @@
 
 ## 🧩 Overview
 
-**NeuroVision-HybridSwinCNN** is a deep learning–powered diagnostic system that combines the **Swin V2-Large Transformer** with a **custom CNN** for accurate brain tumor classification from MRI scans.  
+**Hybrid-SwinV2-TransformerCNN-BrainTumorDetection
+** is a deep learning–powered diagnostic system that combines the **Swin V2-Large Transformer** with a **custom CNN** for accurate brain tumor classification from MRI scans.  
 The model achieves a **97% test accuracy**, outperforming traditional CNNs by leveraging both **global attention** (from Swin Transformer) and **local feature extraction** (from CNN).  
 
 A modern **PyQt5 GUI** is included for real-time inference through simple **drag-and-drop** MRI analysis.
