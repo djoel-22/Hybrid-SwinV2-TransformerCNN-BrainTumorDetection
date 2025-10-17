@@ -150,8 +150,8 @@ Alternatively, if you have the **EXE version**, simply double-click the applicat
 
 | MRI Image | Predicted Class | Confidence |
 |:--|:--|:--|
-| ![sample]([https://upload.wikimedia.org/wikipedia/commons/2/29/Brain_MRI_glioma_example.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencephoto.com%2Fmedia%2F932233%2Fview%2Fhigh-grade-glioma-mri&psig=AOvVaw3IqiXVzjcL1i6xs1Yu0GvH&ust=1760807862899000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPim2czeq5ADFQAAAAAdAAAAABAk)) | Glioma | 96.4% |
-| ![sample](https://upload.wikimedia.org/wikipedia/commons/1/10/Meningioma_MRI_example.jpg) | Meningioma | 93.8% |
+| ![sample]() | Glioma | 96.4% |
+| ![sample]() | Meningioma | 93.8% |
 
 ---
 
