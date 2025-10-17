@@ -229,7 +229,7 @@ Overall **Test Accuracy: 97.02%**
 
 | Contributors | Contribution |
 |:--|:--|
-| **R Jerome FelixRaj**, **D Joel Gunaseelan** | Model Architecture, Training & Integration, GUI Design, Application Development & Testing |
+| **D Joel Gunaseelan**, **R Jerome FelixRaj** | Model Architecture, Training & Integration, GUI Design, Application Development & Testing |
 
 
 ---
