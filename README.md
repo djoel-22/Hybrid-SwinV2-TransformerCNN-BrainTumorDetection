@@ -150,8 +150,8 @@ Alternatively, if you have the **EXE version**, simply double-click the applicat
 
 | MRI Image | Predicted Class | Confidence |
 |:--|:--|:--|
-| ![sample]() | Glioma | 96.4% |
-| ![sample]() | Meningioma | 93.8% |
+| ![sample](lib/800wm.jpg) | Glioma | 96.4% |
+| ![sample](lib/unnamed.jpg) | Meningioma | 93.8% |
 
 ---
 
