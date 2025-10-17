@@ -149,9 +149,9 @@ Alternatively, if you have the **EXE version**, simply double-click the applicat
 ## 🧾 Example Prediction Output
 
 | MRI Image | Predicted Class | Confidence |
-|:--|:--|:--|
-| ![sample](lib/800wm.jpg) | Glioma | 96.4% |
-| ![sample](lib/unnamed.jpg) | Meningioma | 93.8% |
+|:--:|:--:|:--:|
+| <img src="lib/800wm.jpg" width="220"> | **Glioma** | 96.4% |
+| <img src="lib/unnamed.jpg" width="220"> | **Meningioma** | 93.8% |
 
 ---
 
