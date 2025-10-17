@@ -61,7 +61,7 @@ Ensure your dataset is structured as shown in the **folder structure** section b
 ---
 
 ## 📁 Folder Structure
-
+```
 NeuroVision-HybridSwinCNN/
 │
 ├── main.py 
@@ -87,7 +87,7 @@ NeuroVision-HybridSwinCNN/
 └── model/ 
 └── model_epoch_7.pth
 
-
+```
 ---
 
 ## ⚙️ Installation
